@@ -1,3 +1,3 @@
 # Verhaal
 
-Korte samenvatting van verhaallijn.
+Een korte samenvatting van het hoofdverhaal.
